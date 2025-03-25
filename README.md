@@ -29,4 +29,4 @@ It contains 4 datasets: "nou_hearings.csv" (split into paragraphs), "nou_hearing
 The required packages to run the project is provided in requirements.txt and it will run on Python 3.12.2
 
 
-
+Linke: [Final Report: NOU Hearing Response Text Analysis](https://github.com/Brilleslangen/ArgumentMiningNOUs/blob/master/NOU-Text-Analysis.pdf)
